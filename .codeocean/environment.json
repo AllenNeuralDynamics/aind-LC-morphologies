@@ -4,7 +4,8 @@
 	"post_install": true,
 	"options": {
 		"registry_host_arg": true,
-		"git_ask_pass": true
+		"git_ask_pass": true,
+		"mount_secrets": true
 	},
 	"installers": {
 		"conda": {
@@ -26,8 +27,12 @@
 		"pip3": {
 			"packages": [
 				{
+					"name": "ccf-streamlines",
+					"version": "1.1.4"
+				},
+				{
 					"name": "lc-reconstruction-analysis",
-					"version": "0.0.24"
+					"version": "0.0.28"
 				},
 				{
 					"name": "matplotlib",

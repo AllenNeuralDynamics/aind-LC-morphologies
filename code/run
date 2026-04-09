@@ -7,7 +7,7 @@ jupyter nbconvert \
 	--ExecutePreprocessor.allow_errors=True \
 	--ExecutePreprocessor.timeout=-1 \
 	--FilesWriter.build_directory=../results \
-	--execute 'LC Fig Draft 1.ipynb'
+	--execute 'LC Manuscript Figure 2 Analyses.ipynb'
 
 # The previous version of this file was commented-out and follows below:
 #
