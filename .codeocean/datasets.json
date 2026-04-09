@@ -10,12 +10,12 @@
 			"mount": "mouse_ccf_cortical_coordinates_2017"
 		},
 		{
-			"id": "57a42c66-b6ca-4b56-b8ad-929be00ebff9",
-			"mount": "allen_mouse_ccf"
+			"id": "2e0359ab-d64c-44ed-80d6-4c15c7109073",
+			"mount": "LC_Snapshots"
 		},
 		{
-			"id": "66c45227-e43b-4b01-abf6-3b8e61d1c94f",
-			"mount": "LC_Snapshots"
+			"id": "57a42c66-b6ca-4b56-b8ad-929be00ebff9",
+			"mount": "allen_mouse_ccf"
 		},
 		{
 			"id": "d7b102e7-1b8c-46b4-afa3-cae10acdac5e",
