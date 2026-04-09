@@ -6,6 +6,10 @@
 			"mount": "ccf_2017_obj"
 		},
 		{
+			"id": "1501426f-b64b-43e4-93c0-aca8091d9110",
+			"mount": "mouse_ccf_cortical_coordinates_2017"
+		},
+		{
 			"id": "57a42c66-b6ca-4b56-b8ad-929be00ebff9",
 			"mount": "allen_mouse_ccf"
 		},
