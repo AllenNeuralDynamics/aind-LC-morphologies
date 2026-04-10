@@ -1,8 +1,6 @@
 # Analysis of LC morphologies
 
-Data and notebooks for analysis of Locus Coeruleus (LC) single neuron morphologies. This repository contains notebooks for the generation of figures related to morphological analyses in Su et. al. 2026. These notebooks are also executable via reproducible run in CodeOcean
-
-Notebooks:  
+Data and notebooks for analysis of Locus Coeruleus (LC) single neuron morphologies. This repository contains notebooks for the generation of figures related to morphological analyses in Su et. al. 2026. These notebooks are also executable via reproducible run in CodeOcean.
 
 __LC Manuscript Figure 2 Analyses__  
 * Visualization of exemplar LC morphologies. These are 3d html renderings which can be manipulated and repositioned.  
