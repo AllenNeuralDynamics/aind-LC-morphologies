@@ -6,6 +6,10 @@
 			"mount": "mouse_ccf_cortical_coordinates_2017"
 		},
 		{
+			"id": "299fd5aa-1454-4b7a-968c-1e7d2c570d27",
+			"mount": "LC_percentile_meshes_2026-07-10_21-13-43"
+		},
+		{
 			"id": "55501e8f-e57c-4df5-9b51-c263fa58f82e",
 			"mount": "LC_Snapshots"
 		},
