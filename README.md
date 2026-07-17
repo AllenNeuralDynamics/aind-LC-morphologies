@@ -26,3 +26,13 @@ https://codeocean.allenneuraldynamics.org/capsule/5888750/tree
 
 Github Repo:  
 https://github.com/AllenNeuralDynamics/aind-LC-morphologies
+
+
+__Input data used in this repository:__  
+* exaSPIM-reconstructions-snapshot_LC-manuscript_2026-05-06_10-44-00: snapshots of 132 reconstructed LC neurons from 4 imaged brains, in SWC format  
+* LC_percentile_meshes_2026-07-10_21-13-43: volumetric approximation of the bounds of LC, for visualization only
+* mouselight: collection of 1,549 reconstructed neurons from the public mouselight database, in JSON format
+
+__Supporting files for analysis libraries:__  
+* brainglobe_atlasassets_2024-08-01_09-03-00: collection of CCF mouse annotation atlas and ontologies
+* mouse_ccf_cortical_coordinates_2017: collection of streamlines for cortical flatmap projections
