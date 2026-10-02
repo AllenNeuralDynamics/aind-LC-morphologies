@@ -2,16 +2,16 @@
 	"version": 1,
 	"attached_datasets": [
 		{
+			"id": "12f47d79-5373-4fa9-944c-30d5449551e8",
+			"mount": "LC_Snapshots"
+		},
+		{
 			"id": "1501426f-b64b-43e4-93c0-aca8091d9110",
 			"mount": "mouse_ccf_cortical_coordinates_2017"
 		},
 		{
 			"id": "299fd5aa-1454-4b7a-968c-1e7d2c570d27",
 			"mount": "LC_percentile_meshes_2026-07-10_21-13-43"
-		},
-		{
-			"id": "55501e8f-e57c-4df5-9b51-c263fa58f82e",
-			"mount": "LC_Snapshots"
 		},
 		{
 			"id": "9144a708-70b4-425a-8360-3fa41b645118",
