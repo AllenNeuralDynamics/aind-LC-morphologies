@@ -8,27 +8,19 @@
 		"mount_secrets": true
 	},
 	"installers": {
-		"conda": {
+		"pip3": {
 			"packages": [
 				{
-					"name": "hdbscan",
-					"version": "0.8.33"
+					"name": "brainglobe-atlasapi",
+					"version": "2.1.0"
 				},
 				{
-					"name": "jupyterlab",
-					"version": "4.0.9"
+					"name": "ccf-streamlines",
+					"version": "1.1.4"
 				},
 				{
 					"name": "k3d",
 					"version": "2.16.0"
-				}
-			]
-		},
-		"pip3": {
-			"packages": [
-				{
-					"name": "ccf-streamlines",
-					"version": "1.1.4"
 				},
 				{
 					"name": "lc-reconstruction-analysis",
