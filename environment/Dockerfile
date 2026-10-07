@@ -1,4 +1,4 @@
-# hash:sha256:1ddc2a79b404be7dd71dc408600a7fa5a3136cfbf955fb48aa9dfb5805402b17
+# hash:sha256:63f50180a21d6a0e0b1cc9eedb79b068710d26ee7d5807e7c4ddc7a9da5602e5
 ARG REGISTRY_HOST
 FROM $REGISTRY_HOST/codeocean/mambaforge3:23.1.0-4-python3.10.12-ubuntu22.04
 
@@ -10,7 +10,7 @@ RUN pip3 install -U --no-cache-dir \
     brainglobe-atlasapi==2.1.0 \
     ccf-streamlines==1.1.4 \
     k3d==2.16.0 \
-    lc-reconstruction-analysis==0.0.34 \
+    lc-reconstruction-analysis==0.1.0 \
     matplotlib==3.8.2 \
     networkx==3.2.1 \
     numpy==1.26.2 \
